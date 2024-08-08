@@ -1,9 +1,11 @@
 .wrapper {
     width: 420px;
-    background: slateblue;
+    background: rgba(255, 255, 255, 0.192);
+    backdrop-filter: blur(10px);
     color: #fff;
     border-radius: 10px;
     padding: 30px 40px;
+    border: 1px solid rgba(43, 43, 43, 0.568);
 }
 
 .wrapper h1{
