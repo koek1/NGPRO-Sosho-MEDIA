@@ -44,6 +44,14 @@
     font-size: 20px;
 }
 
+.input-box .eye_icon{
+    position: absolute;
+    right: 55px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+}
+
 .wrapper .remember-forgot {
     display: flex;
     justify-content: space-between;

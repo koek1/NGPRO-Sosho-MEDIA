@@ -1,6 +1,6 @@
 import React from 'react';
 import './LoginFormStyle.css';
-import { FaUser, FaLock } from "react-icons/fa";
+import { FaUser, FaLock, FaRegEye, FaRegEyeSlash} from "react-icons/fa";
 
 const LoginForm = () => {
     return (
@@ -13,6 +13,7 @@ const LoginForm = () => {
                 </div>
                 <div className="input-box">
                     <input type="password" placeholder='Password'required/>
+                    <FaRegEye className='eye_icon' />
                     <FaLock className='icon' />
                 </div>
 
