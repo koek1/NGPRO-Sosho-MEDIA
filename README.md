@@ -6,7 +6,7 @@ Step2:
 Step 3:
 ### Disappointment 
 Step 4:
-### Contemplate Igsistance
+### Contemplate existence
 Step 5:
 ### Understand there's no meaning
 Step 6:
