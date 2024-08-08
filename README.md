@@ -4,18 +4,18 @@ Step1:
 Step2:
 ### npm start
 Step 3:
-Dissapointment 
+### Disappointment 
 Step 4:
-Contemplate Igsistance
+### Contemplate Igsistance
 Step 5:
-Understand there's no meaning
+### Understand there's no meaning
 Step 6:
-Cry...
+### Cry...
 Step 7:
-Realise there's no meaning to crying
+### Realise there's no meaning to crying
 Step 8: 
-Bake a cupcake.
+### Bake a cupcake.
 Step 9:
-Eat the cupcake
+### Eat the cupcake
 Step 10:
-Refer back to step 3.
+### Refer back to step 3.
