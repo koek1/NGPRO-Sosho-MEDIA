@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 import './LoginFormStyle.css';
 import { FaUser, FaLock, FaRegEye, FaRegEyeSlash } from "react-icons/fa";
 
@@ -15,8 +16,8 @@ const LoginForm = () => {
                 <h1>Login</h1>
                 <div className="input-box">
                     <input type="text" placeholder='Username' required />
-                    <FaUser className='icon' />
                 </div>
+                <FaUser className='User-icon' />
                 <div className="input-box">
                     <input 
                         type={passwordVisible ? "text" : "password"} 
@@ -26,8 +27,8 @@ const LoginForm = () => {
                     <span onClick={togglePasswordVisibility} className='eye_icon'>
                         {passwordVisible ? <FaRegEyeSlash /> : <FaRegEye />}
                     </span>
-                    <FaLock className='icon' />
                 </div>
+                <FaLock className='Lock-icon' />
 
                 <div className="remember-forgot">
                     <label><input type="checkbox" /> Remember Me</label>
@@ -37,7 +38,7 @@ const LoginForm = () => {
                 <button type="submit">Login</button>
 
                 <div className="register-link">
-                    <p>Don't have an account? <a href="#">Register</a></p>
+                    <p>Don't have an account? <Link to="/signup">Register</Link></p>
                 </div>
             </form>
         </div>

@@ -8,7 +8,7 @@
     border: 1px solid rgba(43, 43, 43, 0.568);
 }
 
-.wrapper h1 {
+.wrapper h1{
     font-size: 36px;
     text-align: center;
 }
@@ -36,53 +36,42 @@
     color: #fff;
 }
 
-.User-icon {
-    position: absolute;
-    right: 60px;
-    top: 50%;
-    transform: translateY(-320%);
-    font-size: 20px;
-    color: #fff; /* Make icons white */
+.wrapper {
+    /* existing styles */
 }
 
-.Lock-icon {
-    position: absolute;
-    right: 60px;
-    top: 50%;
-    transform: translateY(40%);
-    font-size: 20px;
-    color: #fff; /* Make icons white */
+.input-box {
+    position: relative;
+    margin-bottom: 20px;
 }
 
-.input-box .eye_icon {
-    position: absolute;
-    right: 55px;
-    top: 50%;
-    transform: translateY(-35%);
-    font-size: 20px;
-    color: #fff; /* Make eye icons white */
-    cursor: pointer;
-}
-
-.wrapper .remember-forgot {
+.password-box {
     display: flex;
-    justify-content: space-between;
-    font-size: 14.5px;
-    margin: -15px 0px 15px;
+    align-items: center;
 }
 
-.remember-forgot label input {
-    accent-color: #fff;
-    margin-right: 4px;
+.input-box input {
+    width: 100%;
+    padding: 10px;
+    padding-right: 40px; /* Add space for the eye icon */
+    box-sizing: border-box;
 }
 
-.remember-forgot a {
-    color: #fff;
-    text-decoration: none;
+.input-box .icon {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #666;
 }
 
-.remember-forgot a:hover {
-    text-decoration: underline;
+.eye_icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: #666;
 }
 
 .wrapper button {
@@ -108,8 +97,20 @@
 .register-link p a {
     color: #fff;
     text-decoration: none;
+    font-weight: none;
+
 }
 
 .register-link p a:hover {
     text-decoration: underline;
+}
+
+.back-link {
+    margin-top: 25px;
+    margin-left: 23px;
+}
+
+.back-link a{
+    color: #fff;
+    text-decoration: None;
 }
