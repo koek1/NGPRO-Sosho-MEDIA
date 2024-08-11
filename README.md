@@ -1,21 +1,10 @@
 Goofy AHHHHHH shosho Media:
 Step1: 
-### cd "project directory"
+### Launch Comaand Prompt
 Step2:
-### npm start
+### cd "Project File Path"
 Step 3:
-### Disappointment 
+## npm start
 Step 4:
-### Contemplate existence
-Step 5:
-### Understand there's no meaning
-Step 6:
-### Cry...
-Step 7:
-### Realise there's no meaning to crying
-Step 8: 
-### Bake a cupcake.
-Step 9:
-### Eat the cupcake
-Step 10:
-### Refer back to step 3.
+### Cntrl + C in cmd to stop.
+
