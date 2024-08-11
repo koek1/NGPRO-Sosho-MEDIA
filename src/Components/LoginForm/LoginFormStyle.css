@@ -42,7 +42,7 @@
     top: 50%;
     transform: translateY(-320%);
     font-size: 20px;
-    color: #fff; /* Make icons white */
+    color: #fff; 
 }
 
 .Lock-icon {
@@ -51,7 +51,7 @@
     top: 50%;
     transform: translateY(40%);
     font-size: 20px;
-    color: #fff; /* Make icons white */
+    color: #fff; 
 }
 
 .input-box .eye_icon {
@@ -60,7 +60,7 @@
     top: 50%;
     transform: translateY(-35%);
     font-size: 20px;
-    color: #fff; /* Make eye icons white */
+    color: #fff; 
     cursor: pointer;
 }
 
