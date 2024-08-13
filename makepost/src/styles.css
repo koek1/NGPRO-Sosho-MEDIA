@@ -1,0 +1,61 @@
+.make-post-container {
+  width: 300px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: lightblue;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.make-post-header {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.file-input {
+  margin-bottom: 15px;
+}
+
+.file-input label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.preview {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.preview-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.post-options {
+  display: flex;
+  justify-content: space-around;
+}
+
+.post-button {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+  color: white;
+}
+
+.confirm-button {
+  background-color: #28a745;
+}
+
+.cancel-button {
+  background-color: #dc3545;
+}
+
+
+
