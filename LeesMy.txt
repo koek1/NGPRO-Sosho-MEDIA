@@ -1,6 +1,0 @@
-Verantwoordelikhede:
-Login - Geandré du Preez - 2023010746
-MainPage - Simeon Lombard - 2023010545
-Messages-screen - Carlo Lombard - 2023010826
-Make Post - Ethan Smith - 2023010843
-Search - Christiaan Serfontein - student nommer unknown
